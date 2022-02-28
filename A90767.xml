@@ -1,0 +1,267 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A plea for moderation.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90767</idno>
+            <idno type="STC">Wing P2512A</idno>
+            <idno type="STC">Thomason E143_7</idno>
+            <idno type="STC">ESTC R22468</idno>
+            <idno type="EEBO-CITATION">99871760</idno>
+            <idno type="PROQUEST">99871760</idno>
+            <idno type="VID">156598</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90767)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156598)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 25:E143[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A plea for moderation.</title>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Ptinted [sic] in the yeare 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-12</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156598:1" rendition="simple:additions"/>
+            <p>A PLEA FOR MODERATION.</p>
+            <p>Printed in the yeare 1642.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:156598:2"/>
+            <head>To the READER.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">R</seg>EADER,</hi> I conceale my name, for two reaſons; both derived from the conſideration of thee: from thy approbation, thy diſlike: thy approbation, becauſe, having what I aimed at, I expect not the ceremony of thy thankes; thy diſlike, becauſe my ſuppoſed crime ſhall not injure my name. As for miſ-conſtructions, I ſhall neither value them, nor wonder at them.</p>
+            <closer>
+               <salute>Farwell.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156598:2"/>
+            <head>A PLEA FOR MODERATION.</head>
+            <p>
+               <seg rend="decorInit">T</seg>O plead preciſely for Moderation, it is very ne<g ref="char:EOLhyphen"/>ceſſary to be well acquainted with Extreames, and the ill condition and conſequence of them; which, like the counterfeit Mother, would have the childe divi<g ref="char:EOLhyphen"/>ded, but not aright: for indeed, as in every extreme, the A<g ref="char:EOLhyphen"/>gent, which ought to be free, is hurried on with a kind of violence, ſo that it operateth not properly; therefore a ſound and well ordered judgement, which is ever delibe<g ref="char:EOLhyphen"/>rate, can never be converſant in ſuch extreames, but is e<g ref="char:EOLhyphen"/>ver wanting to give its true weight and meaſure to all proceedings. This age is much like weather we have had of late, Aguiſh, therefore diſtempered; many faire and foul daies in one, many good and bad ages in one. There was a time when ſhe was extreamly frozen, both in her Reli<g ref="char:EOLhyphen"/>gion and Lawes, and almoſt loſt by ſcarce feeling where ſhe was, the cold had ſo benumm'd her: Every one might then gheſſe that this was not onely a ſymptom of her diſ<g ref="char:EOLhyphen"/>eaſe, but an abſolute Ague-fit, fit to be purged. And let not any man think, that the glowing fire &amp; fierce zeal of ſome now (I had almoſt ſaid of moſt) in this twi-light age, is an extirpation of that cold; but rather a conſequent of that former chillneſs: <hi>Contraria contrariorum ſunt conſequentia.</hi>
+            </p>
+            <p>And now, I pray, take a little view how theſe contraries do meet; but not <hi>in uno tertio,</hi> yet (though that's my prayer) but in reſemblance.</p>
+            <p>Before the beginning of this (happy I hope) Parlia<g ref="char:EOLhyphen"/>ment,
+<pb facs="tcp:156598:3"/>the Pulpit and Preſſe were ſtuffed full of that do<g ref="char:EOLhyphen"/>ctrine of <hi>caeca obedientia,</hi> and proſecuted with ſo much ex<g ref="char:EOLhyphen"/>ceſſive violence, as no man could reckon otherwiſe, then that they intended a deluge of ignorance to overwhelme the greateſt part of this Common-wealth. That made Schollers angry at the heart; ſince, <hi>è contrario verum,</hi> as high a plea for ignorance is ſet up; and let mee tell you, with more zeale, but leſſe wit, by Preaching and Pam<g ref="char:EOLhyphen"/>phleting againſt humane learning. This, I confeſſe, trou<g ref="char:EOLhyphen"/>bleth Schollers, but they know not how to helpe it.</p>
+            <p>Before the beginning of this Parliament, the practice of men and the Pulpit were full of having the perſons of men in admiration; ſince, <hi>è contrario verum.</hi> I am affraid men are deified and adored: onely before it was idolatry, or ſuperſtition at the leaſt; now 'tis neither.</p>
+            <p>Before, many painfull and pious Miniſters were had in obloquie and diſ-reſpect, I wiſh I could not ſay that ſince, <hi>è contrario verum;</hi> thoſe very men are become the ſubject of ſlandrous tongues.</p>
+            <p>Before, men preached for ſo much libertie, as it was in<g ref="char:EOLhyphen"/>deed juſtly ſtumbled at; now <hi>è contrario nimis verum,</hi> men preach for ſuch a kind of liberty as we would faine bee quit from, for fear of danger to ſoule and body.</p>
+            <p>Theſe extremities I may not unfitly compare to two pictures, fixed in a frame of like reſemblance, and made to look directly one againſt the other, but never approach neerer one unto the other then where they are fixed.</p>
+            <p>What ſtrange diſtractions, what variety of opinions doth this monſtrous error, Extremity, produce into the world?</p>
+            <p>Becauſe I would not bee a Papiſt, a Conſubſtantiate Lutheran or Ubiquitarian, an Arminian, a Socinian, &amp;c. therefore I muſt be a Browniſt, a Separatiſt, a Familiſt, &amp;c. nay an Atheiſt; that ſome hold to bee the beſt Re<g ref="char:EOLhyphen"/>ligion, if they could but prove it one.</p>
+            <pb facs="tcp:156598:3"/>
+            <p>Becauſe I infinitely diſlike to bee leſſe then what a Sub<g ref="char:EOLhyphen"/>ject ought to bee, and am a reall lover of my Country, and would have the Lawes eſtabliſhed bee put in execution, and doe aſſuredly thinke that they who goe about to ſhut us out from this, and denie us to bee <hi>Magna Charta-men,</hi> are, and have beene, great diſturbers of the true peace and tranquillity of the Kingdome; therefore I muſt not give <hi>Caeſar</hi> his due.</p>
+            <p>Becauſe I doe from my very heart deteſt and abhorie the Hierarchicall power of Biſhops, ſo farre as it is ſutable to that power which, by degrees of uſurpation, was gained to the Sea of Rome to make it ſo therefore I muſt have no Biſhops at all, therefore I muſt contemne and ſleight the function; who, although they were in the ancient Church gallant Conduit-pipes to convey the ſenſe and meaning of the Scriptures to us of the later age, nay the Scriptures themſelves; yet wee dwarfs, notwithſtanding wee are neceſſitated to creepe upon their ſhoulders, if wee meane to looke further then they, will never acknowledge them to bee our props and guides; who, although ſome of them, as may bee well proved, had a deciding power both in Temporall and Spirituall matters, ſome of us now would have them enjoy neither; all which before Popery was thought of.</p>
+            <p>Becauſe I in particular did much reprove, and that o<g ref="char:EOLhyphen"/>penly, thoſe over growne ceremonies of the Church in the time of this Hierarchicall power, both for their quan<g ref="char:EOLhyphen"/>titie (although admit them all good, yet not expedient) and for their qualitie, by reaſon that, in very deed, what they added were moſt of them (if not all) bad; therefore we muſt not have thoſe ceremonies uſed which by Law tye our conſcience, untill the wiſedome of the Parliament ſhall conſtitute others in their roome, and do faſten upon us that conſtraint which we cannot wave; and by a better reaſon
+<pb facs="tcp:156598:4"/>I will doe thoſe things which in themſelves are indifferent, becauſe publicke authority enjoines them, then not to doe them, becauſe they are enjoined: Nay, ſome there are who would not ſtick at the performance of them, were they not enjoined at all; it ſeemes that's their impediment. A ſtrange ſpirit of contradiction! but me thinks a ſtranger doctrine to be preached in this ill-independent age. If this be not a way to introduce a full height of libertiniſme, I know not what is: I name not atheiſme, but it is an eaſie matter to gheſſe what kind of Daughter ſuch a Mother may and will bring forth.</p>
+            <p>Now, this let me adde by the way, that when men ſhalbe admitted to cavill at the performance of former Laws, which certainly the gravity of that time framed with due advice and caution (although peradventure many of them are but temporary, and may admit of alteration ſutable to times &amp; occaſions) I ſay, when men ſhall (out of I know not what kind of neglect of authority) diſpenſe with theſe, how can it be expected, that thoſe Laws which hereafter ſhalbe made, ſhall find any better ſucceſſe at the hands of thoſe, who do moſt naturally reject Government and Rule?</p>
+            <p>But I have bin told, they are not of a conſiderable number; the Papiſts are the great danger in the Common-wealth. I confeſſe them to be dangerous men, eſpecially thoſe that are Jeſuited: their practice hath been very factious, and their doctrine is venemous, and diſtreſſed <hi>Ireland</hi> hath too-too-much felt the ſmart of it; but (God be thanked) they have neither clawes nor teeth here, that I know of. But as for that unconſiderable (I may ſay inconſiderate) number, I wiſh they may be alwayes ſo in the firſt ſenſe, ſo long as they continue in the ſecond: And for once, let the Papiſts and them goe together for the <hi>malignant party.</hi>
+            </p>
+            <p>By this time you may partly diſcerne the ſcope of my intended diſcourſe: It is <hi>A Plea for Moderation,</hi> a <hi>Plea</hi> for a
+<pb facs="tcp:156598:4"/>
+               <hi>Medium.</hi> And I perſwade my ſelfe I ſhall, at one inſtant make two contrary ſorts of people glad and ſad, the Papiſt, the Separatiſt; that whileſt by this meanes both think to enjoy their Religion ſtill, their Opinion I would ſay, both miſſe of what they aime: for this <hi>Moderation,</hi> this <hi>Me<g ref="char:EOLhyphen"/>dium,</hi> ſhall give neither of theſe the leaſt ſatisfaction.</p>
+            <p>I have learned by way of diverſity, what a <hi>Medium</hi> may be thus diſtinguiſhed, into
+<list>
+                  <head>Medium</head>
+                  <item>
+                     <hi>Participationis.</hi>
+                  </item>
+                  <item>
+                     <hi>Abnegationis.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The firſt is that for which the <hi>Laodiceans</hi> received ſuch a ſentence from the mouth of God in the <hi>Revelations,</hi> to be a <hi>Repudium</hi> for their luke-warmneſſe: This is the onely principle whereby the Temporizers of every age walke and ſteere their courſe; a blind guide, an <hi>Iguis fatuus,</hi> which very frequently leaves them in the mire: This is ſuch a prin<g ref="char:EOLhyphen"/>ciple as propoſeth to it ſelfe no other end then the preſent advantage; and truely his halting in jeſt betwixt two, makes men often become lame in earneſt; and when they are grown ſuch Cripples, no wonder if they cloſe in the Hoſ<g ref="char:EOLhyphen"/>pitall of fooles.</p>
+            <p>
+               <hi>Machiavell</hi> never loſt himſelfe ſo much as in this par<g ref="char:EOLhyphen"/>ticular; for, if it bee once found out that there can bee two ſeverall men in one, ten to one but hee ſhall ever after have the hard hap not to be truſted in either condition. A <hi>Puritan</hi> is an unlucky name thrown into the world; but if ever there were ſuch a man, this is he who juſtly may aſſume that title, He is like the feet of <hi>Nabuchadnezzars</hi> Image, part of iron and part of clay, an ill mixture, therefore not likely to be of any long perpetuity; this is not the <hi>Medium</hi> I plead for.</p>
+            <p>It is the <hi>Medium abnegationis</hi> I plead ſo ſtrongly for. Albeit I am neither Papiſt nor Separatiſt, yet by Gods help, I truſt I may bee of a true Religion, and maintaine Ortho<g ref="char:EOLhyphen"/>doxill veritie; and, indeed, I branch my <hi>Medium:</hi> firſt, into
+<pb facs="tcp:156598:5"/>Religion, becauſe that is of the higheſt concernment, and moſt of all juſtled at in this clay-iron age. It is true that of <hi>Ariſtotle, Qui ubique est nullibi eſt,</hi> and may bee made good by the medly of ſo many opinionative Religions now ſet on foote by the ſtep-mothers of ſound Religion; who ſo much magnifie their baſtard iſſue before her, as indeed ſhee ſcarce undergoes any thing at their hands but nips and pinches: I confeſſe ſhee hath beene of late dreſſed in too gaudy, too gariſh an attire; and therefore now, to make her do ſtrict penance for how long God knows) ſhe is left ſtark naked, expoſed to ſummer ſcorches, and winter colds; and I pray God when ſhe puts on any thing next, it do not prove her winding ſheet. As I would not have her go like a pain<g ref="char:EOLhyphen"/>ted ſtrumpet, ſo I ſhould be glad to ſee her in a comely dreſſe.</p>
+            <p>I remember, I did even now take the Biſhops by the hand; but my intent was not ſo to take my leave of them: I have ſomewhat more to ſay of them before they go; I ſeriouſly wiſh they had beene carefull to keepe my laſt <hi>medium,</hi> the want of that hath exceedingly prevented me of ſomething I would have ſaid: but thus much I will declare, There have been Biſhops, Dioceſan Biſhops, Lord Biſhops, all good Biſhops, not <hi>Jure divino</hi> (pardon me for that) but <hi>Jure Eccleſiastico vel civili, &amp; ex favore Principis:</hi> Ancient Hiſtories will warrant me for that; and they are ſo copious and ſo well knowne, I hope no man will requeſt a quotati<g ref="char:EOLhyphen"/>on; yea all this the Miniſters of the Goſpell were made ca<g ref="char:EOLhyphen"/>pable of: therefore (in my judgement) not incongruous to the function; and if the government muſt downe, becauſe ſome are bad, why ſhould not the government ſtand, be<g ref="char:EOLhyphen"/>cauſe ſome are, and primitively have beene good? For ought I can perceive, it is as good an argument. I denie not but the way of a Presbytery may be good in a State, not here; but however, durſt I preſume to beg, or think of beg<g ref="char:EOLhyphen"/>ging the leaſt ſtemme from ſacred Majeſtie that is due to
+<pb facs="tcp:156598:5"/>it, our Biſhops, peradventure, might bee much better then they are, if the Miniſters of every County, by a majority of voices, did, out of themſelves, chooſe their Dioceſan Biſhop, and there be ſettled for his life: but then I conceive it is fit, for maintenance, that the leaſt ſhould be a thouſand pounds a yeare to live upon, and the greateſt no more. In this particular I am for a parity; nay I would have none of them Lords, but ſuch on whom his Majeſtie ſhould by his more eſpeciall favour bee graciouſly pleaſed to beſtow the title, who is the undoubted fountaine of honour and digni<g ref="char:EOLhyphen"/>ty. And if I hit aright in the underſtanding of that Text ſo ſeverely urged againſt that, which is, <hi>Be you not called Lords,</hi> the meaning is, Bee not ambitious, deſirous, covetous of that Title; otherwiſe, perhaps, ſome one might call them Lords in ſpite of them, and ſo, againſt their wils, incurre the breach of our Saviours precept. And as concerning that of Saint <hi>Peter, Be not as Lords over Gods heritage,</hi> the mean<g ref="char:EOLhyphen"/>ing is, You ſhall not have abſolute rule over them; for ſo the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifies, which hinders not but that they may have it ſubjugated to the chiefe Prince and State under which they live; for, indeed, as it is admirably well obſerved by that Engliſh <hi>Seneca,</hi> Sir <hi>Edward Dering,</hi> in a Treatiſe of his, when our Saviour tells his twelve Apoſtles that <hi>the Princes of the Gentiles, and the Kings of the Gentiles, &amp;c. exerciſe dominion, &amp;c.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>It ſhall not bee ſo with you;</hi> that is, You ſhall not bee as the Kings and Princes of the Gentiles, who aſſume an abſolute and independent power: No, this I conceive is clearly prohibited them: and (although by the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> be not meant, as ſome would have it, domineering or tyrannizing in a bad ſenſe, but governing and ruling in a good ſenſe, and ſeemly for men duely authorized thereto, as Gods Vice-gerents on Earth; yet) I hold Clergy-men totally uncapable of it: and this I conceive to be the meaning of that worthy Knight,
+<pb facs="tcp:156598:6"/>which (I ſay) doth no way hinder, but that they may, never<g ref="char:EOLhyphen"/>theleſſe, have a ſubordinate power limited them by a ſuper<g ref="char:EOLhyphen"/>intendent authority above them of the King and Lawes of the Kingdome; and with this caution I take the word.</p>
+            <p>I adde a further Plea in behalfe of <hi>Common-prayer,</hi> or a <hi>ſet forme of prayer,</hi> which is our Church Liturgie. I grant that there may be ſome things in it (if the great wiſedome of the Parliament ſo pleaſe) fit to bee expunged; but if this Kingdome ſhould bee ſo unhappy, as to loſe ſuch an ornament of her Religion as this; for my part, I ſhould not grudge to die a <hi>Common-prayer</hi> Martyr: but I ſhall not wonder if the ſet prayers of our Church be ſo ſleighted as they are, when a number (of I know not what ſort of people) cannot reliſh the chiefeſt of prayers, the <hi>Lords prayer;</hi> and yet our Saviour in one of the Goſpels gives us a plain di<g ref="char:EOLhyphen"/>rection, <hi>When you pray, ſay, Our Father which art in heaven, &amp;c.</hi> And as for the Doctrine of the Church of England, grounded upon the infallible Teſtimonie of Holy writ, which a man would bleſſe himſelfe to heare ſtumbled at, (I hope) none dare bee ſo impious as argue againſt it: if he be, I cannot ſee how he can avoid Saint <hi>Pauls Anathema.</hi>
+            </p>
+            <p>Now let me apply my <hi>Medium</hi> to mixt and civill affaires, and ſee if wee can fall into an <hi>uno tertio</hi> there; nay ſee, that if wee fall not there, wee are either ſplit or ſunke. <hi>Preroga<g ref="char:EOLhyphen"/>tive,</hi> admirable in it ſelfe, provided it have its due bounds and limits, hath by ſome beene ſo expatiated, as indeed, in their apprehenſions, it was unfathomed: I would thoſe men had either well underſtood what it was, or, not under<g ref="char:EOLhyphen"/>ſtanding it, would have been huſhed in their own ignorance by a ſilent humility.</p>
+            <p>The <hi>liberty of the Subject,</hi> an excellent ſtrengthening of our <hi>meum &amp; tuum</hi> in the world; but by ſome ſo diameterly oppoſed to <hi>Prerogative,</hi> that, with them, <hi>Non bene conveni<g ref="char:EOLhyphen"/>unt, nec in una ſedemorantur Majeſtas &amp; libertas.</hi> I thinke
+<pb facs="tcp:156598:6"/>this Common-wealth much happier, if they go (like <hi>Hip<g ref="char:EOLhyphen"/>pocrates</hi> twinnes) hand in hand: And it was a good ſpeech, though from a band man (I ſhall beleeve the Divell when he ſpeakes truth) <hi>This Kingdome will never bee well, unleſſe there be a right underſtanding between the King and his people Mordecay</hi>'s advice to <hi>Heſter,</hi> concerning the deliverance of the <hi>Jewes,</hi> hath been miſ-applied by diverſe; for, as I take it, there was King in the caſe, and that King bowed &amp; ſued to; I hope with us hee ſhall be eſteemed a third Eſtate in Parliament.</p>
+            <p>
+               <hi>Rehoboams</hi> loſſe of ten Tribes was a very ſtrange and ſud<g ref="char:EOLhyphen"/>den falling off, and ſeemed for the preſent an exceeding great blow to <hi>Rehoboam</hi> himſelfe; yet wee ſee no expreſſe reaſon alledged in Scripture, either in reſpect of <hi>Rehoboams</hi> ſinne in particular, or of the Peoples in generall; but the Text ſaith, <hi>it was of the Lord:</hi> nevertheleſſe thoſe revol<g ref="char:EOLhyphen"/>ting Tribes are plainly charged with rebellion for it, and a commendation is given to <hi>Judah</hi> for ſticking cloſe to their true and lawfull Prince. Nay ſee what became of thoſe revolters ever after; amongſt all their Kings that raigned over them, I do not read of one of them that was good, whereas <hi>Judah</hi> had diverſe; for <hi>Jehoram,</hi> one of the race of the Kings of <hi>Judah</hi> being wicked, had this brand upon him, that <hi>he walked after the Kings of Iſrael.</hi> Nay obſerve how <hi>Abijah</hi> the ſonne of <hi>Rehoboam</hi> doth, in this very parti<g ref="char:EOLhyphen"/>cular, taxe <hi>Jeroboam</hi> with rebellion againſt his Lord; and ſo having addreſſed his prayer to Almighty God for victory over <hi>Jeroboam</hi> and all his rebellious troope, <hi>Abijah</hi> with 400000. men of <hi>Judah</hi> and <hi>Benjamin,</hi> had the conqueſt of <hi>Jeroboam</hi> with 800000. men of <hi>Iſrael,</hi> full twice ſo many, and at that time kept them under due obedience. Here may you ſee a moſt remarkable judgment of God for their rebellious undutifulneſſe. Obſerve further how many ſeverall and ſundry waies they were puniſhed, both with idolatrie and other enormous ſinnes, which crept amongſt
+<pb facs="tcp:156598:7"/>them, and perpetuall wars and troubles abroad, and in a ſhort time brought to captivity; whereas <hi>Judah</hi> on the contrary had ſtill a greater meaſure of peace and tranquilli<g ref="char:EOLhyphen"/>ty. And one thing I cannot but take notice of; It is ſaid that thoſe of <hi>Iſrael</hi> who ſought the Lord their God, <hi>went up to Jeruſalem to worſhip:</hi>
+               <note place="margin">1 Kin. 12.27.</note> which begat a great jealouſie in <hi>Jeroboam,</hi> fearing leſt if the people went up to do ſacri<g ref="char:EOLhyphen"/>fice in the houſe of the Lord at Jeruſalem, it would bee a meanes to turne their hearts back againe to their Lord <hi>Rehoboam;</hi> and what followes? <hi>So ſhall they kill mee</hi> (ſaith hee) <hi>and goe againe to Rehoboam:</hi> there was his jealouſie, as hee had good reaſon; wherefore hee proſecuted one wickedneſſe with another, as it is indeed the uſuall way in all rebellions; they cannot bee thought ſafe, but by attempt<g ref="char:EOLhyphen"/>ing and heaping up a load of higher and greater crimes.</p>
+            <p>Princes are like the bond of Wed-lock, once make them the Fathers of our Country, and wee take them for better for worſe: wee may perſwade them, wee cannot compell them without breach of divine precept; once let them be the <hi>Lords annointed,</hi> and it is ſacriledge to touch them, I meane unfittingly. The common people made Caeſars, but being once made, it was utterly out of their power to un<g ref="char:EOLhyphen"/>make them againe; nothing could do it but death. And if a King ſhould breake an oath, made by him to his people, for a right governing according to his Lawes; yet, under favour, his breach quitteth not his Subjects of their allegi<g ref="char:EOLhyphen"/>ance: and if this ſtand not for a truth, for my part, I do not know by what principle any man can walke; for, deſtroy but this foundation, and then your Anti-governiſts will alwaies finde ſtarting holes, upon the leaſt diſ-content, to ſhake off that yoke which is undoubtedly laid upon every Subject, as a neceſſary tye of their obedience and loyalty to their Sove<g ref="char:EOLhyphen"/>raigne, and that even as they tender the peace and quiet of a good conſcience.</p>
+            <pb facs="tcp:156598:7"/>
+            <p>Therefore you ſhall read in the <hi>Chronicles,</hi> though God permitted the people to worke treaſon againſt King <hi>Amaziah,</hi> becauſe, as it is there ſaid,<note place="margin">1 Chro. 25.27.</note> 
+               <hi>hee turned away from the Lord his God;</hi> yet, I truſt, no man can denie but that it was reckoned treaſon ſtill in the peo<g ref="char:EOLhyphen"/>ple. But it may bee objected, <hi>Quorſum haec?</hi> wee have a King (God bee bleſſed for him) farre other<g ref="char:EOLhyphen"/>wiſe; otherwiſe indeed, and one who may well bee an exact patterne of pietie to all his Subjects; Nay what a happy peace and contentment have wee enjoy<g ref="char:EOLhyphen"/>ed under our moſt gracious Soveraigne, till wee our ſelves, I know not which way, have quarrelled with our ſelves?</p>
+            <p>I anſwer, that I urge not this but onely as an argu<g ref="char:EOLhyphen"/>ment <hi>à minori ad majus;</hi> if Princes are not to be rebel<g ref="char:EOLhyphen"/>led againſt, neither by the reall ſword, nor by the me<g ref="char:EOLhyphen"/>taphoricall one, the tongue; that is, neither by ſpeech nor action, though they ſhould be <hi>Nero's</hi> or <hi>Caligula's;</hi> in how ample and high an eſtimation ſhould we then have thoſe, who are <hi>reverâ</hi> good ones, and not dip<g ref="char:EOLhyphen"/>ped with the leaſt colour or reſemblance of ſuch Ty<g ref="char:EOLhyphen"/>ranniſts? Therefore <hi>Bracton</hi> expreſſeth it admira<g ref="char:EOLhyphen"/>bly, where hee ſaid, <hi>Omnis quidem ſub Rege, &amp; ipſe ſub nullo niſi tantùm ſub Deo:</hi> And in another place, <hi>Si autem aliquid ab eo petatur (cum breve non currat contra ipſum) locus erit ſupplicationi, quod factum ſuum corrigat &amp; emendet; quod quidem ſi non fecerit, ſatis ſufficit ei ad poenam quod Dominum expectet ultorem; nemo quidem de factis ſuis praeſumat diſpu<g ref="char:EOLhyphen"/>tare, multò fortiùs contra factum ſuum venire:</hi> thus far <hi>Bracton.</hi>
+            </p>
+            <p>It is not for nought that the Apoſtle doth ſo inſe<g ref="char:EOLhyphen"/>parably knit theſe two together, <hi>feare God</hi> and <hi>ho<g ref="char:EOLhyphen"/>nour the King:</hi> as if hee ſhould have ſaid, there is
+<pb facs="tcp:156598:8"/>none can give that honour to the King as hee ought, except hee be one that truly feareth God; and none can truly feare God as hee ought, if hee give not the honour due to his Prince. And if Saint <hi>Paul</hi> could check himſelfe with a <hi>ſcriptum eſt, Thou ſhalt not ſpeak evil of the Ruler of thy people;</hi> what can be thought of thoſe that would infringe his legall Prerogative, which is as undoubtedly his, as our eſtates are ours, and by as firme a Law, untill hee ſhall pleaſe to give way to the altering of it, by his owne free and wil<g ref="char:EOLhyphen"/>ling aſſent and conſent firſt had and obtained, which muſt not bee drawne from him by the leaſt conſtraint or forcible perſwaſion whatſoever? That of the <hi>Proverbs</hi> is a ſure rule, <hi>Feare God and the King, and meddle not with them that are given to change.</hi>
+            </p>
+            <p>And I pray tell me, what is the cauſe why ſuch miſ<g ref="char:EOLhyphen"/>takes and heart-burnings ariſe in the world, but onely the great want of charity in a number. <hi>Love covers a multitude of ſinnes,</hi> ſaith the Scripture: <hi>Ex conſe<g ref="char:EOLhyphen"/>quenti,</hi> what doe you then call that which rips them up, and layes them open? Indeed love gaines a mul<g ref="char:EOLhyphen"/>titude of good; good to others, to themſelves who uſe it: and where can wee better manifeſt it then to thoſe whom God hath placed in eminency above us? Would it not grieve us much if our children ſhould prove <hi>Chams</hi> unto us? If therefore there bee truly that relation (as wee are bound to beleeve it) certainly their wounds muſt needes pierce through our ſides, and their contempt muſt needs bee our reproach.</p>
+            <p>I am not ignorant that this is a very hard leſſon to take out; but, to come to my <hi>Medium,</hi> it muſt bee done: for, to ſpeake the truth, while wee want this Theologicall vertue, <hi>Love,</hi> wee are very apt to doe injury to them wee love not; and it argues a
+<pb facs="tcp:156598:8"/>great partiality to our ſelves. What ſaith Saint <hi>Paul?</hi> to repeate him a little, <hi>Though I ſpeake with the tongues of men and Angels, &amp;c. Though I had the gifts of Propheſie, &amp;c. and knew all ſecrets: yea had all faith, &amp;c. Though I feed the poore, nay though I give my bodie to bee burned, and have not love, all is nothing:</hi> And yet (God he knowes) what an innume<g ref="char:EOLhyphen"/>rable company of pretenders are there to all theſe, but it is without <hi>Love.</hi> The Apoſtle goeth on to tell the nature and condition of Love: and do but view what characters hee puts upon it.</p>
+            <p>
+               <hi>Love</hi>
+               <list>
+                  <item>
+                     <hi>ſuffereth long.</hi>
+                  </item>
+                  <item>
+                     <hi>is bountifull.</hi>
+                  </item>
+                  <item>
+                     <hi>envieth not.</hi>
+                  </item>
+                  <item>
+                     <hi>boaſteth not it ſelfe.</hi>
+                  </item>
+                  <item>
+                     <hi>is not puffed up.</hi>
+                  </item>
+                  <item>
+                     <hi>diſdaineth not.</hi>
+                  </item>
+                  <item>
+                     <hi>ſeeketh not her owne things.</hi>
+                  </item>
+                  <item>
+                     <hi>is not provoked to anger.</hi>
+                  </item>
+                  <item>
+                     <hi>thinketh not evill.</hi>
+                  </item>
+                  <item>
+                     <hi>rejoiceth not in iniquity, but in truth.</hi>
+                  </item>
+                  <item>
+                     <hi>ſuffereth all things.</hi>
+                  </item>
+                  <item>
+                     <hi>beleeveth all things.</hi>
+                  </item>
+                  <item>
+                     <hi>hopeth all things.</hi>
+                  </item>
+                  <item>
+                     <hi>endureth all things.</hi>
+                  </item>
+                  <item>
+                     <hi>never falleth away.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Here is a chaine conſiſting of fifteene linkes, all of them moſt expreſſive and emphaticall. What a hard taske have the men of our age to imitate all theſe? what a brave <hi>Medium</hi> were here to fall upon? Let me once, for all, ſpeake boldly, and it will eaſily be found to bee true upon due ſearch and ſad examination, that there is not one the leaſt tumult or diſtraction in a Na<g ref="char:EOLhyphen"/>tion, not the leaſt diſcontent in a family (by which, as
+<pb facs="tcp:156598:9"/>by <hi>Hercules</hi> feete, may be meaſured the proportion of the whole body) but it ariſeth from the want of due obſervation of all theſe. I might expatiate my ſelfe in theſe particulars; but my care is, as much as I can, to ſave time and trouble to the Reader. I profeſſe not my ſelf a Divine, it is not my way; therefore I leave peculiar applications to the ingenious.</p>
+            <p>Now, by the rule of Contraries, I might illuſtrate un<g ref="char:EOLhyphen"/>to you what is oppoſite and repugnant to <hi>Love;</hi> but di<g ref="char:EOLhyphen"/>verſe mens practice now a dayes will in this point in<g ref="char:EOLhyphen"/>ſtruct you better then I.</p>
+            <p>There is much to bee ſaid, but I ſhut up all in <hi>Love;</hi> and I wiſh from my very ſoule all miſtakes and miſ<g ref="char:EOLhyphen"/>beleefes might end there; which will never be, while they ſo be; for unleſſe they vaniſh, no roome for <hi>Love:</hi> That <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is extreamly miſtaken abroad, for it is often made but the baite, whileſt the hooke layes hold on private intereſts.</p>
+            <p>And truely, as my hearty prayers ſhall be ever bent for a moſt proſperous event of proceedings in theſe inſtant great Aſſemblies: So it ſhall ſtill be one prayer of my Petition, that there may be <hi>Love</hi> at the end of every thing; and I am confident ſuch a Petition as this, needeth neither clubs nor ſwords to force its ad<g ref="char:EOLhyphen"/>miſſion.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
